@@ -89,6 +89,12 @@ private val data = listOf(
         "Changes applied from step 8",
         Step8CompletedActivity::class,
         highlight = true
+    ),
+    Step("Step Personalizado",
+        "Animacion Personalizada",
+        "Punto dos del ejercicio propuesto",
+        StepPersonalizado::class,
+        highlight = true
     )
 )
 

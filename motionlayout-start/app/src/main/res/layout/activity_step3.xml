@@ -19,6 +19,9 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     app:layoutDescription="@xml/step3">
+    motion:motionDebug="SHOW_PATH" >
+
+
 
 
     <ImageView
